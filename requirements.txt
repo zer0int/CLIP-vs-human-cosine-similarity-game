@@ -1,0 +1,7 @@
+PySimpleGUI
+Pillow
+numpy
+scipy
+matplotlib
+git+https://github.com/openai/CLIP.git
+#torch - please download as suitable from https://pytorch.org/
